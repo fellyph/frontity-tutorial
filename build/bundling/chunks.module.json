@@ -1,0 +1,81 @@
+{
+  "errors": [],
+  "warnings": [],
+  "version": "4.44.2",
+  "hash": "74e011f094c74cf7c06a",
+  "publicPath": "/static/",
+  "outputPath": "/Users/blog-fellyph/Local Sites/frontity-tutorial/frontity-tutorial/build/static",
+  "assetsByChunkName": {
+    "frontity-tutorial": "frontity-tutorial.module.js",
+    "list": "list.module.js"
+  },
+  "assets": [
+    {
+      "name": "frontity-tutorial.module.js",
+      "size": 5074443,
+      "chunks": [
+        "frontity-tutorial"
+      ],
+      "chunkNames": [
+        "frontity-tutorial"
+      ],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "list.module.js",
+      "size": 48353,
+      "chunks": [
+        "list"
+      ],
+      "chunkNames": [
+        "list"
+      ],
+      "info": {},
+      "emitted": false
+    }
+  ],
+  "filteredAssets": 0,
+  "entrypoints": {
+    "frontity-tutorial": {
+      "chunks": [
+        "frontity-tutorial"
+      ],
+      "assets": [
+        "frontity-tutorial.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "namedChunkGroups": {
+    "frontity-tutorial": {
+      "chunks": [
+        "frontity-tutorial"
+      ],
+      "assets": [
+        "frontity-tutorial.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    },
+    "list": {
+      "chunks": [
+        "list"
+      ],
+      "assets": [
+        "list.module.js"
+      ],
+      "children": {},
+      "childAssets": {}
+    }
+  },
+  "logging": {
+    "webpack.buildChunkGraph.visitModules": {
+      "entries": [],
+      "filteredEntries": 5,
+      "debug": false
+    }
+  },
+  "children": []
+}
