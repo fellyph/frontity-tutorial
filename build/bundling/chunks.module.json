@@ -2,34 +2,50 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "74e011f094c74cf7c06a",
+  "hash": "56773609e28e037f7171",
   "publicPath": "/static/",
   "outputPath": "/Users/blog-fellyph/Local Sites/frontity-tutorial/frontity-tutorial/build/static",
   "assetsByChunkName": {
-    "frontity-tutorial": "frontity-tutorial.module.js",
-    "list": "list.module.js"
+    "frontity-tutorial": [
+      "frontity-tutorial.module.js",
+      "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js"
+    ]
   },
   "assets": [
     {
-      "name": "frontity-tutorial.module.js",
-      "size": 5074443,
-      "chunks": [
-        "frontity-tutorial"
-      ],
-      "chunkNames": [
-        "frontity-tutorial"
-      ],
-      "info": {},
+      "name": "d7d5d6873b5f7c7d3229.hot-update.json",
+      "size": 59,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
       "emitted": false
     },
     {
-      "name": "list.module.js",
-      "size": 48353,
+      "name": "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js",
+      "size": 2101,
       "chunks": [
-        "list"
+        "frontity-tutorial"
       ],
       "chunkNames": [
-        "list"
+        "frontity-tutorial"
+      ],
+      "info": {
+        "hotModuleReplacement": true,
+        "immutable": true
+      },
+      "emitted": false
+    },
+    {
+      "name": "frontity-tutorial.module.js",
+      "size": 4795022,
+      "chunks": [
+        "frontity-tutorial"
+      ],
+      "chunkNames": [
+        "frontity-tutorial"
       ],
       "info": {},
       "emitted": false
@@ -42,7 +58,8 @@
         "frontity-tutorial"
       ],
       "assets": [
-        "frontity-tutorial.module.js"
+        "frontity-tutorial.module.js",
+        "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -54,17 +71,8 @@
         "frontity-tutorial"
       ],
       "assets": [
-        "frontity-tutorial.module.js"
-      ],
-      "children": {},
-      "childAssets": {}
-    },
-    "list": {
-      "chunks": [
-        "list"
-      ],
-      "assets": [
-        "list.module.js"
+        "frontity-tutorial.module.js",
+        "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -73,7 +81,7 @@
   "logging": {
     "webpack.buildChunkGraph.visitModules": {
       "entries": [],
-      "filteredEntries": 5,
+      "filteredEntries": 2,
       "debug": false
     }
   },

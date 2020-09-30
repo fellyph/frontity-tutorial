@@ -9,33 +9,7 @@ const settings = {
   },
   "packages": [
     {
-      "name": "@frontity/mars-theme",
-      "state": {
-        "theme": {
-          "menu": [
-            [
-              "Home",
-              "/"
-            ],
-            [
-              "Tutoriais",
-              "/category/tutoriais/"
-            ],
-            [
-              "Curso PWA",
-              "/curso-online-progressive-web-apps/"
-            ],
-            [
-              "Sobre",
-              "/sobre/"
-            ]
-          ],
-          "featured": {
-            "showOnList": false,
-            "showOnPost": false
-          }
-        }
-      }
+      "name": "tutorial-fellyph"
     },
     {
       "name": "@frontity/wp-source",
