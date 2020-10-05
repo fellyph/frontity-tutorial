@@ -2,18 +2,18 @@
   "errors": [],
   "warnings": [],
   "version": "4.44.2",
-  "hash": "56773609e28e037f7171",
+  "hash": "c2cae06dfa3e551e919f",
   "publicPath": "/static/",
   "outputPath": "/Users/blog-fellyph/Local Sites/frontity-tutorial/frontity-tutorial/build/static",
   "assetsByChunkName": {
     "frontity-tutorial": [
       "frontity-tutorial.module.js",
-      "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js"
+      "frontity-tutorial.6d3fa137283a5583db90.hot-update.js"
     ]
   },
   "assets": [
     {
-      "name": "d7d5d6873b5f7c7d3229.hot-update.json",
+      "name": "6d3fa137283a5583db90.hot-update.json",
       "size": 59,
       "chunks": [],
       "chunkNames": [],
@@ -24,8 +24,24 @@
       "emitted": false
     },
     {
-      "name": "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js",
-      "size": 2101,
+      "name": "fonts/baumans_regular-webfont.woff2",
+      "size": 17068,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "fonts/khand_500-webfont.woff2",
+      "size": 17328,
+      "chunks": [],
+      "chunkNames": [],
+      "info": {},
+      "emitted": false
+    },
+    {
+      "name": "frontity-tutorial.6d3fa137283a5583db90.hot-update.js",
+      "size": 5386,
       "chunks": [
         "frontity-tutorial"
       ],
@@ -40,7 +56,7 @@
     },
     {
       "name": "frontity-tutorial.module.js",
-      "size": 4795022,
+      "size": 4820259,
       "chunks": [
         "frontity-tutorial"
       ],
@@ -59,7 +75,7 @@
       ],
       "assets": [
         "frontity-tutorial.module.js",
-        "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js"
+        "frontity-tutorial.6d3fa137283a5583db90.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
@@ -72,7 +88,7 @@
       ],
       "assets": [
         "frontity-tutorial.module.js",
-        "frontity-tutorial.d7d5d6873b5f7c7d3229.hot-update.js"
+        "frontity-tutorial.6d3fa137283a5583db90.hot-update.js"
       ],
       "children": {},
       "childAssets": {}
